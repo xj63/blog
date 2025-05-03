@@ -1,12 +1,14 @@
 ---
 title: Markdown 语法支持
-publishDate: 2024-07-26 08:00:00
+publishDate: 2025-05-03
 description: 'Markdown 是一种轻量级的「标记语言」。'
 tags:
   - Markdown
 heroImage: { src: './thumbnail.jpg', color: '#B4C6DA' }
 language: '中文'
 ---
+
+本文章复制自 [Astro-Pure-Theme Markdown](https://astro-pure.js.org/blog/markdown-zh)
 
 ## 基本语法
 
@@ -27,6 +29,8 @@ Markdown 是一种轻量级且易于使用的语法，用于为您的写作设�
 ```
 
 标题预览会打乱文章的结构，所以在此不展示。
+
+同时一个页面中推荐只有一个 `H1` 标题，并且由 title 生成，而在文章中推荐 `## H2` 起步。
 
 ### 粗斜体
 
@@ -88,7 +92,7 @@ function fibonacci(n) {
 }
 ```
 
-当前使用 shiki 作为代码高亮插件，支持的语言请参考 [shiki / languages](https://shiki.matsu.io/languages.html)。
+当前使用 shiki 作为代码高亮插件，支持的语言请参考 [shiki languages](https://shiki.matsu.io/languages.html)。
 
 ### 行内公式
 
@@ -119,12 +123,12 @@ $$
 #### 图片
 
 ```markdown
-![CWorld](https://cravatar.cn/avatar/1ffe42aa45a6b1444a786b1f32dfa8aa?s=200)
+![xj63](https://blog.xj63.fun/favicon/favicon-512x512.png)
 ```
 
 预览：
 
-![CWorld](https://cravatar.cn/avatar/1ffe42aa45a6b1444a786b1f32dfa8aa?s=200)
+![xj63](https://blog.xj63.fun/favicon/favicon-512x512.png)
 
 #### 删除线
 
