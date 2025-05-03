@@ -1,7 +1,5 @@
 # xj63's blog
 
-[English](./README.md) | [简体中文](./README-zh-CN.md)
-
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=157271353" target="_blank" style="display: block" align="center">
   <picture>
