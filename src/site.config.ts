@@ -91,8 +91,8 @@ export const integ: IntegrationUserConfig = {
     applyTip: [
       { name: 'Name', val: theme.title },
       { name: 'Desc', val: theme.description || 'Null' },
-      { name: 'Link', val: 'https://astro-pure.js.org/' },
-      { name: 'Avatar', val: 'https://astro-pure.js.org/favicon/favicon.ico' }
+      { name: 'Link', val: 'https://blog.xj63.fun' },
+      { name: 'Avatar', val: 'https://blog.xj63.fun/favicon/favicon-512x512.png' }
     ]
   },
   // Enable page search function
