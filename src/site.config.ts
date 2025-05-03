@@ -83,9 +83,10 @@ export const integ: IntegrationUserConfig = {
   links: {
     // Friend logbook
     logbook: [
-      { date: '2024-07-01', content: 'Lorem ipsum dolor sit amet.' },
-      { date: '2024-07-01', content: 'vidit suscipit at mei.' },
-      { date: '2024-07-01', content: 'Quem denique mea id.' }
+      {
+        date: '2025-05-03',
+        content: "I'm waiting for you here."
+      }
     ],
     // Yourself link info
     applyTip: [
