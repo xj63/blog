@@ -132,7 +132,7 @@ export const integ: IntegrationUserConfig = {
     emoji: ['bmoji', 'weibo'],
     // Refer https://waline.js.org/en/reference/client/props.html
     additionalConfigs: {
-      // search: false,
+      search: true,
       pageview: true,
       comment: true,
       locale: {
