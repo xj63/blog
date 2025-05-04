@@ -5,7 +5,6 @@ publishDate: 2025-05-04
 tags: ['C++']
 heroImage: { src: './thumbnail.png' }
 language: '中文'
-draft: true
 ---
 
 ## 前言
