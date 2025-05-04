@@ -6,21 +6,20 @@ import ProjectSection from '@/components/projects/ProjectSection.astro'
 import config from '@/site-config'
 
 const headings = [
+  { depth: 2, slug: 'github-activities', text: 'Github Activities' },
   { depth: 2, slug: 'website', text: 'Website' },
   { depth: 2, slug: 'sponsorship', text: 'Sponsorship' }
 ]
 ---
 
 <PageLayout title='Projects' {headings} info={{ slug: '/projects', hideComment: true }}>
-  <p>Github Activities:</p>
-  <p>
-    <Image
-      src='https://ghchart.rshah.org/659eb9/xj63'
-      alt='github activities'
-      inferSize
-      loading='lazy'
-    />
-  </p>
+  <h2 id='github-activities'>Github Activities</h2>
+  <Image
+    src='https://ghchart.rshah.org/659eb9/xj63'
+    alt='github activities'
+    inferSize
+    loading='lazy'
+  />
 
   <h2 id='website'>Website</h2>
   <ProjectSection
