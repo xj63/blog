@@ -3,7 +3,7 @@ title: CPP 中的 delete [] 魔法🪄
 description: '为什么 new [] 创建的数组需要 delete [] 来进行释放？🤔'
 publishDate: 2025-05-04
 tags: ['C++']
-# heroImage: { src: './thumbnail.jpg', color: '#B4C6DA' }
+heroImage: { src: './thumbnail.png' }
 language: '中文'
 draft: true
 ---
