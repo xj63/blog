@@ -12,9 +12,23 @@ import SkillLayout from '@/components/home/SkillLayout.astro'
 import avatar from '@/assets/avatar.png'
 import config from '@/site-config'
 
-const languages = ['Html', 'JavaScript', 'CSS', 'Shell']
-const frontend = ['TypeScript', 'Vite', 'Webpack', 'Astro']
-const backend = ['Vercel', 'Waline']
+const languages = ['Rust', 'Python', 'C', 'C++', 'Objective-C', 'Shell', 'Lua']
+const frontend = [
+  'HTML',
+  'JavaScript',
+  'CSS',
+  'TypeScript',
+  'Vue',
+  'WebComponent',
+  'Wgpu',
+  'Wasm',
+  'Astro',
+  'Vite',
+  'Nuxt',
+  'Dart',
+  'Flutter'
+]
+const backend = ['Cloudflare', 'Sqlite', 'Axum', 'Docker']
 
 const MAX_POSTS = 10
 const allPosts = await getBlogCollection()
