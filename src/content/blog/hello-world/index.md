@@ -2,7 +2,7 @@
 title: 种下一棵数字木棉
 description: '当木棉花开满枝头时，我决定在数字世界种下属于自己的种子'
 publishDate: 2025-05-03
-tags: ['blog', 'self', 'growth', 'start', 'think']
+tags: ['blog', 'self', 'think']
 heroImage: { src: './thumbnail.png', color: '#e3961c' }
 language: '中文'
 ---
@@ -40,6 +40,7 @@ language: '中文'
 这个博客不需要成为星辰大海，只要能像深夜的台灯一样，为偶然路过的同行者提供片刻光明，便是它存在的全部意义。
 
 **欢迎在评论区留下你的：**
+
 - 🐞 遇到的诡异 bug
 - 🎯 想了解的技术方向
 - ☕ 喜欢的咖啡/奶茶🥤
