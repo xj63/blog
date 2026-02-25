@@ -144,7 +144,8 @@ module.exports = (args, opts) => {
       argv,
       key.split('.'),
       value
-    )(aliases[key] || []).forEach((x) => {
+    )
+    ;(aliases[key] || []).forEach((x) => {
       setKey(argv, x.split('.'), value)
     })
   }
