@@ -13,7 +13,7 @@ A simple, fast and powerful blog & document theme built by Astro.
 ![image](./.github/assets/body.webp)
 
 > [!NOTE]
-> Known issues: 1. Header & customize options is still under development (template exposed still). 2. Theme template v4.0.5^ UnoCSS preset changed to PresetMini. If there's any problem, please report as issue.
+> Known issues: Header & customize options is still under development (template exposed still).
 
 ## Introduction
 
