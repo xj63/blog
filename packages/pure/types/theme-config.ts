@@ -184,7 +184,10 @@ export const ThemeConfigSchema = () =>
       blogPageSize: z.number().optional().default(8),
 
       /** Share buttons to show */
-      share: ShareSchema()
+      share: ShareSchema(),
+
+      /** Enable image captions (default false) */
+      imageCaption: z.boolean().default(false).describe('Enable image captions')
     })
   })
 

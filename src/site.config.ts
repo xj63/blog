@@ -87,14 +87,15 @@ export const theme: ThemeUserConfig = {
     externalLinks: {
       content: ' ↗',
       /** Properties for the external links element */
-      properties: {
-        style: 'user-select:none'
-      }
+      properties: { style: 'user-select:none' }
     },
     /** Blog page size for pagination (optional) */
     blogPageSize: 8,
+    /** Share buttons to show */
     // Currently support weibo, x, bluesky
     share: ['weibo', 'x', 'bluesky']
+    /** Enable image captions (default false) */
+    // imageCaption: true
   }
 }
 
