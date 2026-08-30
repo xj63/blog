@@ -1,7 +1,7 @@
 {
   "name": "astro-theme-pure",
   "type": "module",
-  "version": "4.1.4",
+  "version": "4.1.6",
   "scripts": {
     "dev": "astro dev",
     "dev:check": "astro check --watch & astro dev",
@@ -24,7 +24,7 @@
     "@astrojs/vercel": "10.0.6",
     "@waline/client": "^3.13.0",
     "astro": "6.2.1",
-    "astro-pure": "1.4.6",
+    "astro-pure": "1.4.7",
     "katex": "^0.16.45",
     "rehype-katex": "^7.0.1",
     "remark-math": "^6.0.0",
